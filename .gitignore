@@ -1,0 +1,57 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# PyCharm specific files
+.idea/
+
+# Logs
+*.log
+
+# Python test results
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.log
+*.pot
+*.pyc
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS Finder directory attributes
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Ignore configuration files
+*.config
+.env
+
+# Ignore YAML files
+*.yaml
+*.yml
+
+# Ignore Excel files
+*.xls
+*.xlsx
+
+# Ignore CSV files
+*.csv
+
+# Ignore directories named 'data'
+data/
