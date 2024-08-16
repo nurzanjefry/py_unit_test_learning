@@ -1,0 +1,4 @@
+pywinauto==0.6.8
+html-testRunner==1.2.1
+PyYAML~=6.0.2
+Appium-Python-Client~=4.0.1
